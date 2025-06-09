@@ -17,9 +17,9 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender e criar coisas
 
 ## 📫 Contato
 
-- 📧 E-mail: _adicione aqui seu e-mail_
-- 📱 Instagram: _adicione seu @_
-- 💼 LinkedIn: _adicione seu perfil (opcional)_
+- 📧 E-mail: _murilorigacci@gmail.com_
+- 📱 Instagram: _@murilorigacci_
+- 💼 LinkedIn: _Murilo Rigacci Rocha_
 
 ---
 
