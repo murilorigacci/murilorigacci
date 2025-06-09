@@ -1,27 +1,29 @@
-# 💻 Murilo Rigacci Rocha
+# 👋 Olá, eu sou o Murilo!
 
-👋 Olá! Meu nome é **Murilo Rigacci Rocha**, tenho **16 anos** e sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no **SENAI Valinhos**.  
-Sou apaixonado por tecnologia e estou sempre em busca de aprender e criar coisas novas na área do desenvolvimento!
+Meu nome é Murilo Rigacci Rocha, tenho 16 anos e sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI Valinhos.
 
 ---
 
-## 🚀 Tecnologias e Plataformas
+## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="NextJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
+</p>
 
 ---
 
 ## 📫 Contato
 
-- 📧 E-mail: _murilorigacci@gmail.com_
-- 💼 LinkedIn: _Murilo Rigacci Rocha_
-
----
-
-✨ Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor.
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" />](mailto:murilorigacci@gmail.com)
+&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />](https://www.linkedin.com/in/murilo-rigacci-rocha-b7482134a/)
